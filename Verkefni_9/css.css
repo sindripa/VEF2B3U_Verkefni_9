@@ -1,0 +1,31 @@
+#body {
+  text-align: center;
+	margin: 0 auto;
+}
+
+#container {
+	padding: 5px;
+  width: 900px;
+  border: 1px solid black;
+  margin: 5px auto;
+}
+
+#spurning {
+  cursor: default;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+.svarRed {
+  background-color: red;
+}
+
+.svarGreen {
+  background-color: green;
+}
+
+.svar {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 2px auto;
+}
